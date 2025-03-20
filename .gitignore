@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# user defined
-.gitignore
-
 # C extensions
 *.so
 
